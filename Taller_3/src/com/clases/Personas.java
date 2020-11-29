@@ -1,6 +1,6 @@
 package com.clases;
 
-public class Personas {
+public class Personas extends Clientes {
     private String cedula;
     private String celular;
 
@@ -19,4 +19,5 @@ public class Personas {
     public void setCelular(String celular) {
         this.celular = celular;
     }
+
 }

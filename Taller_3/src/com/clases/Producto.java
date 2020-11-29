@@ -37,4 +37,6 @@ public class Producto {
     public void setCondiciones(String condiciones) {
         this.condiciones = condiciones;
     }
+
+
 }

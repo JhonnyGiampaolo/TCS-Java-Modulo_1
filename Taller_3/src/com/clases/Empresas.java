@@ -2,7 +2,7 @@ package com.clases;
 
 import javax.swing.*;
 
-public class Empresas {
+public class Empresas extends Clientes {
     private String tipDoc;
     private String documento;
     private String representante;
